@@ -1,0 +1,6 @@
+name=input("Enter the name")
+age=input("Enter age")
+qual=input("Enter qualification")
+print(name)
+print(age)
+print(qual)

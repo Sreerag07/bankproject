@@ -1,0 +1,7 @@
+lst=[1,2,3,4,4,5,5,]
+ln=len(lst)
+for i in range(0,ln+1):
+    try:
+        print(i)
+    except:
+        print("Index out of range")

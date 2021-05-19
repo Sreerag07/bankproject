@@ -1,0 +1,4 @@
+anu,1,bca,180
+sree,2,mca,300
+hari,3,btech,550
+athi,4,mca,410
